@@ -1,7 +1,7 @@
-package com.natamus.undergroundbeacons;
+package com.serilum.undergroundbeacons;
 
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.undergroundbeacons.util.Reference;
+import com.serilum.undergroundbeacons.util.Reference;
 import net.fabricmc.api.ClientModInitializer;
 
 public class ModFabricClient implements ClientModInitializer {
