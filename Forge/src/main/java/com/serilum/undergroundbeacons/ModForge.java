@@ -1,10 +1,9 @@
-package com.natamus.undergroundbeacons;
+package com.serilum.undergroundbeacons;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.undergroundbeacons.util.Reference;
+import com.serilum.undergroundbeacons.util.Reference;
 import net.minecraftforge.eventbus.api.IEventBus;
-import net.minecraftforge.fml.ModLoadingContext;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLLoadCompleteEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;

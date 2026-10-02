@@ -1,4 +1,4 @@
-package com.natamus.undergroundbeacons;
+package com.serilum.undergroundbeacons;
 
 public class ModCommon {
 
