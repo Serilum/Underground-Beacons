@@ -1,8 +1,8 @@
-package com.natamus.undergroundbeacons;
+package com.serilum.undergroundbeacons;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.undergroundbeacons.util.Reference;
+import com.serilum.undergroundbeacons.util.Reference;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 import net.neoforged.fml.event.lifecycle.FMLLoadCompleteEvent;
